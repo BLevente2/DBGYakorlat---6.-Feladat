@@ -1,0 +1,5 @@
+1, 4 500 000 Ft, fekete
+2, 3 200 000 Ft, piros
+3, 2 800 000 Ft, zöld
+4, 5 500 000 Ft, piros
+5, 6 700 000 Ft, kék
